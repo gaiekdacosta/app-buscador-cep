@@ -1,5 +1,5 @@
 {
-  "name": "buscordcep-app",
+  "name": "buscadorcep-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -9,13 +9,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "axios": "^1.4.0",
     "expo": "~49.0.5",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
-    "react-native": "0.72.3"
+    "react-native": "0.72.3",
+    "react-native-elements": "^3.4.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0", 
+    "@types/react": "^18.2.18",
+    "@types/react-native": "^0.72.2",
+    "@types/react-native-elements": "^0.18.0",
+    "typescript": "^5.1.6"
   },
   "private": true
 }

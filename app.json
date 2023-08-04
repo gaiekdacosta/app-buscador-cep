@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "buscordCep-app",
-    "slug": "buscordCep-app",
+    "name": "buscadorcep-app",
+    "slug": "buscadorcep-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
